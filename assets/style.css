@@ -474,6 +474,10 @@ a.current {
     border-bottom: none;
 }
 
+a.active {
+    color: lime !important;
+}
+
 a:hover {
     color: lime !important;
     text-decoration: none;
